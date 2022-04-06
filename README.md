@@ -1,16 +1,24 @@
-### Hi there 👋
+# 👋 Hi there, my name is Quinn
 
-<!--
-**TheQuib/TheQuib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Quinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheQuib&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Learning more about Kubernetes
+   - Specifically with integrations from [Harvester](https://harvesterhci.io)
+ - Finishing out my college degree from [Pennsylvania College of Technology](https://pct.edu)
+   - Majoring in [Network Administration and Engineering Technology](https://www.pct.edu/academics/et/information-technology/network-administration-engineering-technology)
+
+
+<!-- ## 🌱 Currently learning -->
+
+## 📜 Education
+
+ - Bachelor's Degree in [Network Administration and Engineering Technology](https://www.pct.edu/academics/et/information-technology/network-administration-engineering-technology)
+   - 2019-2022
+ - Associates Degree in [Network and User Support](https://www.pct.edu/academics/et/information-technology/network-user-support)
+   - Completed 2021
+
+## 🤝 Attributions
+
+[GitHub Stats](https://github.com/anuraghazra/github-readme-stats) from [above](#hi-there-my-name-is-quinn).
