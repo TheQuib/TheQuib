@@ -40,15 +40,14 @@ I'm a network administrator at a public school district, where I provide user su
 
 ## 🔭 Currently Working On
 
- - Finalizing my [website](https:/quibtech.com)!
+ - Building some containers 📦
  - Finishing out my college degree from [Pennsylvania College of Technology](https://pct.edu)
    - Majoring in [Network Administration and Engineering Technology](https://www.pct.edu/academics/et/information-technology/network-administration-engineering-technology)
 
 
 ## 🌱 Currently learning
 
- - Kubernetes
- - Grafana
+ - Docker container building
 
 &nbsp;
 
@@ -61,23 +60,37 @@ I'm a network administrator at a public school district, where I provide user su
 ### Jersey Shore Area School District
 [jsasd.org](https://www.jsasd.org)
 
-**Network Technician**
+**Full-time Network Technician**
 
-*2020 - Present*
+*August 2022 - Present**
+
+
+**Part Time Network Technician**
+
+*August 2020 - July 2022*
 
 
 **Information Technology Intern**
 
-*2018 - 2020*
+*August 2018 - July 2020*
+
+&nbsp;
+
+### Perceive Studios
+[perceivestudios.com](https://perceivestudios.com)
+
+**Webmaster**
+
+*July 2021 - Present*
 
 &nbsp;
 
 ### West Branch Arts Consortium
 [westbrancharts.org](http://westbrancharts.org)
 
-**Website Designer**
+**Webmaster**
 
-*2019 - Present*
+*June 2019 - Present*
 
 &nbsp;
 
