@@ -26,7 +26,7 @@ I'm a network administrator at a public school district, where I provide user su
 
  - Homelabbing
    - Primarily running Proxmox
-   - Dabbling in Kubernetes
+   - Containerize *everything*
    - Love for self-hosted projects
  - Networking
    - I mean, this is in my current job title
@@ -41,13 +41,11 @@ I'm a network administrator at a public school district, where I provide user su
 ## 🔭 Currently Working On
 
  - Building some containers 📦
- - Finishing out my college degree from [Pennsylvania College of Technology](https://pct.edu)
-   - Majoring in [Network Administration and Engineering Technology](https://www.pct.edu/academics/et/information-technology/network-administration-engineering-technology)
-
+ - Learning data visualization 📈
 
 ## 🌱 Currently learning
 
- - Docker container building
+ - Metrics capturing and visualization!
 
 &nbsp;
 
@@ -102,11 +100,11 @@ I'm a network administrator at a public school district, where I provide user su
 
 **Bachelor's Degree, Computer Systems Networking and Telecommunications***
 
-*2019 - Present*
+*August 2019 - December 2022*
 
 ***Associates Degree, Computer and Information Sciences***
 
-*2019-2021*
+*August 2019 - May 2021*
 
 &nbsp;
 
