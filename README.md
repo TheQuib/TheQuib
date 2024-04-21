@@ -11,8 +11,6 @@ I'm a network administrator at a public school district, where I provide user su
 ### Here, you'll find...
 
  - [My Interests](#-interests)
- - [Current Projects](#-currently-working-on)
- - [Current Learning Adventures](#-currently-learning)
  - [My Work Experience](#-experience)
  - [My Education](#-education)
 
@@ -38,15 +36,6 @@ I'm a network administrator at a public school district, where I provide user su
    - With hopes of getting the FAA Part 107 License
 
 
-## 🔭 Currently Working On
-
- - Building some containers 📦
- - Learning data visualization 📈
-
-## 🌱 Currently learning
-
- - Metrics capturing and visualization!
-
 &nbsp;
 
 --------
@@ -58,7 +47,7 @@ I'm a network administrator at a public school district, where I provide user su
 ### Jersey Shore Area School District
 [jsasd.org](https://www.jsasd.org)
 
-**Full-time Network Technician**
+**Full-time Network Specialist**
 
 *August 2022 - Present**
 
@@ -86,7 +75,7 @@ I'm a network administrator at a public school district, where I provide user su
 ### West Branch Arts Consortium
 [westbrancharts.org](http://westbrancharts.org)
 
-**Webmaster**
+**Webmaster** and **Graphic designer**
 
 *June 2019 - Present*
 
