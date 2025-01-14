@@ -23,11 +23,13 @@ I'm a network administrator at a public school district, where I provide user su
 ## 😎 Interests
 
  - Homelabbing
-   - Primarily running Proxmox
+   - Proxmox is life
    - Containerize *everything*
    - Love for self-hosted projects
  - Networking
-   - I mean, this is in my current job title
+   - In the job title :)
+ - Systems Administration
+   - Also part of the job
  - Web Design
    - More of a side thing, I definitely find it fun
    - Exceptional in WordPress and Hugo
