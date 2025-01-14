@@ -70,7 +70,7 @@ I'm a network administrator at a public school district, where I provide user su
 
 *December 2024 - Present*
 
-$nbsp;
+&nbsp;
 
 ### Perceive Studios
 [perceivestudios.com](https://perceivestudios.com)
