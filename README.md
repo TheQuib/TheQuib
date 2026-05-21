@@ -1,16 +1,12 @@
 ## 👋 Hi, my name is Quinn.
 
-I'm a network administrator at a public school district, where I provide user support and systems administration of both Linux and Windows systems. I also dabble in all sorts of IT related fields and an avid proponent of open source.
+I’m a systems and networking professional who keeps infrastructure running, goes to teach percussion after work, and builds websites on the side.
 
 &nbsp;
 
-[![Quinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheQuib&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 🔎 Here, you'll find...
 
-&nbsp;
-
-### Here, you'll find...
-
- - [My Interests](#-interests)
+ - [A few of my skills](#-skills)
  - [My Work Experience](#-experience)
  - [My Education](#-education)
 
@@ -20,27 +16,21 @@ I'm a network administrator at a public school district, where I provide user su
 
 &nbsp;
 
-## 😎 Interests
+## 💡 Top sills & interests
 
- - Homelabbing
-   - Proxmox is life
-   - Containerize *everything*
-   - Love for self-hosted projects
- - Networking
-   - In the job title :)
- - Systems Administration
-   - Also part of the job
- - Web Design
-   - More of a side thing, I definitely find it fun
-   - Exceptional in WordPress and Hugo
- - Drone Flying
-   - With my DJI Mini 2, I have a great love for recreational flying
-   - With hopes of getting the FAA Part 107 License
+ - Network Infrastructure Design
+ - Linux & Windows System Administration
+ - Virtualization & Containerization
+ - Highly-Available Systems
+ - Live Sound
+ - Live Broadcast & Streaming Production
+ - Marching Percussion Instruction
 
+See all of my skills on my [LinkedIn profile](https://www.linkedin.com/in/quinn-henry/details/skills/).
 
 &nbsp;
 
---------
+------
 
 &nbsp;
 
@@ -49,12 +39,12 @@ I'm a network administrator at a public school district, where I provide user su
 ### Jersey Shore Area School District
 [jsasd.org](https://www.jsasd.org)
 
-**Full-time Network Specialist**
+**Network Specialist**
 
-*August 2022 - Present**
+*August 2022 - Present*
 
 
-**Part Time Network Technician**
+**Network Technician**
 
 *August 2020 - July 2022*
 
@@ -65,30 +55,16 @@ I'm a network administrator at a public school district, where I provide user su
 
 &nbsp;
 
-### Shore Car Wash
-[shorecarwash.com](https://shorecarwash.com)
-
-**Webmaster**
-
-*December 2024 - Present*
-
-&nbsp;
-
-### Perceive Studios
-[perceivestudios.com](https://perceivestudios.com)
-
-**Webmaster**
-
-*July 2021 - Present*
-
-&nbsp;
-
-### West Branch Arts Consortium
-[westbrancharts.org](http://westbrancharts.org)
-
-**Webmaster** and **Graphic designer**
+### Freelance Web Developer
 
 *June 2019 - Present*
+
+**My work**
+ - [Shore Car Wash](https://shorecarwash.com)
+ - [West Haven Technology](https://westhaventechnology.com)
+ - [West Branch Arts Consortium](https://westbrancharts.org)
+
+Detailed experience information on my [LinkedIn profile](https://www.linkedin.com/in/quinn-henry/details/experience/).
 
 &nbsp;
 
@@ -98,19 +74,10 @@ I'm a network administrator at a public school district, where I provide user su
 
 ### Pennsylvania College of Technology
 
-**Bachelor's Degree, Computer Systems Networking and Telecommunications***
+**Bachelor of Science, Network Administration & Engineering Technology***
 
 *August 2019 - December 2022*
 
-***Associates Degree, Computer and Information Sciences***
+***Associate of Applied Science, Network & User Support***
 
 *August 2019 - May 2021*
-
-&nbsp;
-
---------
-
-
-## 🤝 Attributions
-
-[GitHub Stats](https://github.com/anuraghazra/github-readme-stats) from [above](#hi-there-my-name-is-quinn).
